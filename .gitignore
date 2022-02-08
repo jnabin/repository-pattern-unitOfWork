@@ -1,3 +1,5 @@
 /.vs/*
 /RepositoryPatternWithUnitOfWork/bin/*
 /RepositoryPatternWithUnitOfWork/obj/*
+/Persistence/bin/*
+/Persistence/obj/*
