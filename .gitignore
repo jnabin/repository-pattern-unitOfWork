@@ -3,5 +3,5 @@
 /RepositoryPatternWithUnitOfWork/obj/*
 /Persistence/bin/*
 /Persistence/obj/*
-/core/obj/*
+/core/bin/*
 /core/obj/*
